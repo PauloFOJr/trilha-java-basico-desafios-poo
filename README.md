@@ -1,3 +1,4 @@
+![Exemplo de diagrama](https://github.com/PauloFOJr/trilha-java-basico-desafios-poo/blob/main/Captura%20de%20tela%202026-01-07%20173509.png)
 
 classDiagram
 direction TB
